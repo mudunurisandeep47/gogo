@@ -1,0 +1,40 @@
+.featured-ride {
+    margin-bottom: 40px;
+}
+nav li{
+    text-align: end;
+ font-size: medium;
+ font-style: italic;
+}
+.header{
+    text-align: center;
+}
+.featured-ride h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.featured-ride .ride-card {
+    border: 2px solid #007bff;
+}
+
+.testimonials {
+    margin-top: 40px;
+}
+
+.testimonials h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.testimonial {
+    border-left: 4px solid #007bff;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+
+.testimonial p {
+    margin: 0;
+    font-style: italic;
+    color: #555;
+}
